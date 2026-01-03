@@ -79,11 +79,4 @@ const spideyProfile = {
   
   <p>"With great power comes great responsibility."</p>
 </div>
-
-<!-- 
-INSTRUCTIONS:
-1. Replace "spiderman.gif" with the path to your actual Spider-Man GIF
-2. Update the personal information in the profile section
-3. Add your own projects to the Projects section
-4. Update the social media links with your profiles
--->
+ 
