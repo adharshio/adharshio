@@ -37,7 +37,7 @@
 const spideyProfile = {
   location: "India",  
   focus: ["Web Development","Data Science","Python","C","HTML","Shell scripting"],  
-  currentlyLearning: "Cyber security", "Data structures and algorithms"
+  currentlyLearning: "andriod studio","flutter"
   funFact: “Saving the city by day, fixing semicolons by night.”
 };
 ```
